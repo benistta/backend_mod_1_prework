@@ -115,4 +115,4 @@ my_formula = divide(subtract(3, multiply(add(weight, 2), 1)), 1)
 puts "Is my formula working?"
 
 
-#5. I removed the word return and see if the script still works.
+#5. I removed the word return and see if the script still works. It does!
